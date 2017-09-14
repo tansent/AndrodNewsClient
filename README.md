@@ -1,7 +1,7 @@
 # AndrodNewsClient
 
 
-One of the most noteworthy point is that the news client has 3-layers of ViewPagers stacked together. Yet they can all slide smoothly and 
+One of the most noteworthy point is that the news client has 3-layer ViewPagers stacked together. Yet they can all slide smoothly and 
 correctly according to logics.
 
 Left sliding bar is used based on "SlidingMenu"; Sharing app is based on "ShareSDK".
